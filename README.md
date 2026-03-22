@@ -2,7 +2,7 @@
 
 *this is my Github profile where I Create/contribute diffrent project that I working on.
 
-## 🤠👍 I'm the Content Creator named Clogxzyamane that is making videos and now Games
+## 🤠👍 I'm the Content Creator named Clogxzyamane that is making videos and now Game projects
 
 ### Here are my top 6 most viewed Videos 2021 - 2026
 
