@@ -35,7 +35,7 @@
 
 <div align="center">
   
-# Envorioments
+# Environments
 
 </div>
 
