@@ -11,6 +11,9 @@
 
 ## 🤠👍 I'm the Content Creator named Clogxzyamane that is making videos and now Game projects
 
+<img width="669" height="242" alt="Screenshot 2026-03-22 220832" src="https://github.com/user-attachments/assets/bdfd885c-795d-4446-bcd0-b7adf16310c9" />
+
+
 ### Here are my top 6 Videos 2021 - 2026
 
 ----->Made by me Clogxzyamane<-----
