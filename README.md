@@ -1,22 +1,44 @@
-# 👋 Well Hello Everyone My Name is Clogxzyamane
+<div align="center">
+
+# 👋 Well Hello Everyone My Name is Clogxzyamane 
+
+</div>
 
 > [!NOTE]
-> this is my Github profile where I Create/contribute on diffrent projects. 
+> this is my Github profile where I Create/contribute on diffrent projects.
+
+<div align="center">
 
 ## 🤠👍 I'm the Content Creator named Clogxzyamane that is making videos and now Game projects
 
 ### Here are my top 6 Videos 2021 - 2026
-> Made by me Clogxzyamane
+
+----->Made by me Clogxzyamane<-----
+
+-----------------------------------------------------------------------------------------------------------------
+
+
 
 <img width="1282" height="322" alt="Screenshot 2026-03-22 210020" src="https://github.com/user-attachments/assets/17e4cf41-dda3-44ea-945a-a0041f926df0" />
 
 
+# My Contributions
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Clogxzyamane)](https://git.io/streak-stats) 
+
+</div>
+
+
+<div align="center">
 # Envorioments
+</div>
+
 
 > [!NOTE]
 > this section is my Envoriomental works that are made in my personal/team Projects
 
-
+<div align="center">
 
 ## Fantasy Graveyard (UE 5.6)
 <img width="500" height="500" alt="Screenshot 2025-10-02 204154" src="https://github.com/user-attachments/assets/5b8d2605-591a-44b6-8c5a-19e67c7e56e5" />
@@ -35,5 +57,5 @@
 <img width="500" height="500" alt="Screenshot 2026-03-11 205035" src="https://github.com/user-attachments/assets/27141b01-1db2-49e5-99f7-8d00b2976a0b" />
 <img width="500" height="500" alt="Screenshot 2026-03-08 181514" src="https://github.com/user-attachments/assets/d9d32087-2805-477f-8ded-3a6eeb7ead8d" />
 
-
+</div>
 
