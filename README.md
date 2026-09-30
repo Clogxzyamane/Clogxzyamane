@@ -5,11 +5,11 @@
 </div>
 
 > [!NOTE]
-> this is my Github profile where I Create/contribute many diffrent projects.
+> this is my GitHub profile where I Create/contribute on many different projects.
 
 <div align="center">
 
-## 🤠👍 I'm the Content Creator that is also building games 
+## 🤠👍 I'm Clogxzyamane and I a Content Creator that is also building games. 
 
 <img width="669" height="242" alt="Screenshot 2026-03-22 220832" src="https://github.com/user-attachments/assets/bdfd885c-795d-4446-bcd0-b7adf16310c9" />
 
