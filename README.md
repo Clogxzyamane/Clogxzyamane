@@ -42,7 +42,7 @@
 
 
 > [!NOTE]
-> this section is to showcases my speciality towards my Environmental modeling works that are made inside my personal/team Projects
+> this section showcases my speciality towards Environmental modelling that were made inside my personal/team Projects over the years
 
 <div align="center">
 
