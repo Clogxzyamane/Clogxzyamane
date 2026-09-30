@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Well Hello Everyone My Name is Clogxzyamane 
+# 👋 Well Hello Everyone, My Name is Clogxzyamane. 
 
 </div>
 
 > [!NOTE]
-> this is my Github profile where I Create/contribute on diffrent projects.
+> this is my Github profile where I Create/contribute many diffrent projects.
 
 <div align="center">
 
-## 🤠👍 I'm the Content Creator named Clogxzyamane that is making videos and now Game projects
+## 🤠👍 I'm the Content Creator that is also building games 
 
 <img width="669" height="242" alt="Screenshot 2026-03-22 220832" src="https://github.com/user-attachments/assets/bdfd885c-795d-4446-bcd0-b7adf16310c9" />
 
@@ -42,7 +42,7 @@
 
 
 > [!NOTE]
-> this section is my Envoriomental works that are made in my personal/team Projects
+> this section is to showcases my speciality towards my Environmental modeling works that are made inside my personal/team Projects
 
 <div align="center">
 
